@@ -1,0 +1,3 @@
+.venv
+poetry.lock
+ch02/popular-names.txt
