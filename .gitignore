@@ -2,3 +2,5 @@
 poetry.lock
 ch02/popular-names.txt
 ch03/jawiki-country.json
+ch04/neko.txt
+ch04/neko.txt.mecab
