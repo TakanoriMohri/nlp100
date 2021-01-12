@@ -8,6 +8,7 @@ authors = ["Takanori Mohri <takanori.mohri@gmail.com>"]
 python = "^3.8"
 pandas = "^1.0.5"
 requests = "^2.25.1"
+japanize_matplotlib = "^1.1.3"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.5.3"
